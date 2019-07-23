@@ -9,4 +9,4 @@ A quick 48 hour game development that two friends and I created.  This was done 
 
 Shape of War is a 2D, top-down, wave survival game where you destroy shapes and collect angles to create defenses around your home. Every time you beat them back, the stronger they retaliate. Can you survive to the end and save your home from spinning, pointy, destruction?
 
-GameJam 2019 - Curtis Naples, Evan Plant, Pat Wolffe
+GameJam 2019 - Curtis Naples, Evan Plant, Pat Wolff
